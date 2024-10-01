@@ -1,4 +1,4 @@
-# HedesMakeEasy
+# HadesMakeEasy
 Mod sur hades qui rend le jeu simple avec la complétion des succès a 100% sur steam
 
 Mod on hades that makes the game simple with completion of achievements has 100% on steam
